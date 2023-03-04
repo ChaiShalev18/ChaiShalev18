@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chai-Shalev Hadad
 =========================================================================================================================================
 
-Software Engineer Student
--------------------------
+Software Engineer Student at Ben-Gurion University of the Negev
+---------------------------------------------------------------
 
 * 🌍  I'm based in Brechya Israel
 * ✉️  You can contact me at [chaishalev2002@gmail.com](mailto:chaishalev2002@gmail.com)
