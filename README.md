@@ -66,7 +66,7 @@ src="https://img.shields.io/github/followers/ChaiShalev18?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/ChaiShalev18" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaiShalev18&langs_count=7&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ChaiShalev18" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaiShalev18&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaishalev18&show_icons=true&locale=en" alt="chaishalev18" /></p>
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaishalev18&" alt="chaishalev18" /></p> -->
